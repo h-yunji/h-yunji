@@ -17,6 +17,47 @@ Hi, I'm Yunji Han, a curious analyst.
   <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?&logo=PyTorch&logoColor=white"/>&nbsp
 
 </div>
+<br>
+<h3 align="center">🛠 Tools 🛠</h3>
+</div>
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoyunji)](https://solved.ac/백준닉네임)
+<div align=center>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/GoogleColab-F9AB00?logo=GoogleColab&logoColor=white" />
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+
+</div>
+<br>
+<h3 align="center">✏️ certificate ✏️</h3>
+</div>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 연도</b></td>
+      <td><b>⭐ 자격증</b></td>
+      <td><b>📚 기관</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+    <thead align="center">
+      <td>2021</b></a></td>
+      <td>SQLD</td>
+      <td>한국데이터산업진흥원</td>
+    </tr>
+	        <tr>
+      <td>2021</b></a></td>
+      <td>ADSP</td>
+      <td>한국데이터산업진흥원</td>
+    </tr>
+    </thead>       
+  </tbody>
+</table>
+
+</div>
+<br>
+<h3 align="center"> 🧸 활동 🧸</h3>
+</div>
