@@ -1,16 +1,22 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=SHARK&color=FCB6D0&height=120&section=header&fontSize=90" />
 
-<!--
-**h-yunji/h-yunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center"> 👋 ABOUT ME 👋 </h3>
+<p align="center">
+Hi, I'm Yunji Han, a curious analyst.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<h3 align="center">📚 Technology Stack 📚</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?&logo=python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?&logo=mysql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Pandas-150458?&logo=Pandas&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?&logo=PyTorch&logoColor=white"/>&nbsp
+
+</div>
+
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoyunji)](https://solved.ac/백준닉네임)
