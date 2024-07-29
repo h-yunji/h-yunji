@@ -2,8 +2,7 @@
 
 <h3 align="center"> 👋 ABOUT ME 👋 </h3>
 <p align="center">
-Hi, I'm Yunji Han, a curious analyst.
-
+Hi, I'm Yunji Han
 
 </div>
 
